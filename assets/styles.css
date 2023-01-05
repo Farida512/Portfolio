@@ -1,0 +1,275 @@
+/*******************header*********/
+.hname>h1 {
+    display: block;
+    margin-left: 20px;
+    color: white;
+    background-color: rgb(84, 95, 124);
+    text-align: center;
+    font-size: 2em;
+    width: 150px;
+    font-family: 'Times New Roman', Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    padding: 20px;
+}
+
+.hname>ul>li {
+    display: inline-block;
+    padding: 25px;
+    font-size: 20px;
+}
+
+a:link {
+    text-decoration: none;
+    color: rgb(99, 129, 129);
+    font-family: Arial, Helvetica, sans-serif;
+    margin-right: 10px;
+}
+
+.hname {
+    display: flex;
+    justify-content: space-between;
+}
+
+header {
+    background-color: rgb(219, 236, 240);
+    width: 1530px;
+    top: 0;
+
+}
+
+body {
+    background-color: rgb(242, 245, 247);
+
+}
+
+/*******************header*********/
+
+/***************about*************/
+.about2>img {
+    width: 200px;
+    height: 200px;
+    padding: 20px;
+
+}
+
+.about2>p {
+    font-size: 25px;
+    padding: 10px;
+    color: rgb(99, 129, 129);
+
+
+}
+
+.about>h2 {
+    font-size: 35px;
+    padding: 20px;
+    font-weight: bold;
+    color: rgb(84, 95, 124);
+}
+
+.about {
+    background-color: white;
+    display: block;
+    width: 1000px;
+    height: 355px;
+    padding: 30px;
+    margin-top: 50px;
+    margin-left: 20px;
+
+}
+
+.about2 {
+    display: flex;
+
+
+}
+
+/******* connect***********/
+.apps>img {
+    width: 75px;
+    height: 75px;
+    margin-top: 30px;
+    padding: 10px;
+}
+
+.connect>h2 {
+    font-weight: bold;
+    font-size: 30px;
+    padding: 10px;
+    color: rgb(84, 95, 124);
+}
+
+.connect {
+    display: block;
+    background-color: white;
+    width: 300px;
+    height: 200px;
+    padding: 20px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.all-about {
+    display: flex;
+}
+
+/***************footer**************/
+.footer {
+    background-color: rgb(84, 95, 124);
+    width: auto;
+    height: 100px;
+    width: 1520px;
+    bottom: 0;
+    position: fixed;
+}
+
+.footer>h2 {
+    color: white;
+    text-align: center;
+    padding: 40px;
+}
+
+.duzxet {
+    width: 1520px;
+    height: 10px;
+    background-color: rgb(48, 70, 133);
+    display: flex;
+}
+
+/***************form**************/
+
+.about4 {
+    background-color: white;
+    display: block;
+    width: 750px;
+    height: 355px;
+    padding: 30px;
+    margin-top: 50px;
+    margin-left: 20px;
+
+}
+
+.about4>h2 {
+    font-size: 25px;
+    padding: 10px;
+    font-weight: bold;
+    color: rgb(84, 95, 124);
+}
+
+label {
+    font-weight: bold;
+    color: rgb(84, 95, 124);
+}
+
+input {
+    font-weight: bold;
+    color: rgb(84, 95, 124);
+}
+
+.button {
+    background-color: #0f5469;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 2px 2px;
+    cursor: pointer;
+}
+
+.all-about2 {
+    display: flex;
+    justify-content: space-around;
+}
+
+/***************portfolio*********/
+.img1 {
+    width: 350px;
+    height: 175px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.portfolio {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.all-about3 {
+    display: flex;
+    justify-content: space-around;
+    height: 500px;
+
+}
+
+.img2 {
+    width: 350px;
+    height: 175px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.img3 {
+    width: 350px;
+    height: 175px;
+    padding: 10px;
+    margin: 10px;
+
+}
+
+.img4 {
+    width: 350px;
+    height: 180px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.img5 {
+    width: 350px;
+    height: 175px;
+    padding: 10px;
+    margin: 10px;
+}
+
+
+
+.about5 {
+    background-color: white;
+    width: 800px;
+    height: 830px;
+    padding: 30px;
+    margin: 20px;
+}
+
+.about5>h2 {
+    font-size: 25px;
+    padding: 10px;
+    font-weight: bold;
+    color: rgb(84, 95, 124);
+}
+
+.portfolio>div {
+    display: flex;
+
+}
+
+.centered {
+    font-family: 'Times New Roman', Arial, Helvetica, sans-serif;
+    position: absolute;
+    background-color: rgb(122, 154, 175);
+    font-weight: bold;
+    text-align: center;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 2rem;
+    width:20%;
+    margin-top: 130px;
+    margin-left: 5px;
+    color: #fff;
+}
